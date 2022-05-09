@@ -10,7 +10,7 @@ apt update <br/>
 apt install -y git <br/>
 apt install -y nginx <br/>
 cd /var/www/html <br/>
-git clone https://github.com/kirank05/Anthos.git <br/>
+git clone https://github.com/kirank05/MountkirkGames.git <br/>
 
 2. Open http://EXTERNAL-IP-GCE/Anthos in your browser
 3. Enjoy!
